@@ -8,3 +8,5 @@ The second function asks the user to change any number in the array and then wil
 The third function simply creates a new array with one more elemental slot, copies the old array onto it, then adds the user's choice of integer at the end of the new array.
 
 The fourth array asks the user to change a number, via the index, to zero. 
+
+The main function actually creates the array by opening the data file and uploading it onto the array. I had to look up the majority of this section due to being new to C++. 
